@@ -1,2 +1,2 @@
 # nasa
-jQuery site using  NASA's api
+An example API/Ajax project
